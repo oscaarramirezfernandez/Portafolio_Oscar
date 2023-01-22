@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollador de aplicaciones web on Portafolio</title>
+    <link>https://oscaarramirezfernandez.github.io/Oscar_Portafolio/</link>
+    <description>Recent content in Desarrollador de aplicaciones web on Portafolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Nov 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://oscaarramirezfernandez.github.io/Oscar_Portafolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GExpenses</title>
+      <link>https://oscaarramirezfernandez.github.io/Oscar_Portafolio/post/project-1/</link>
+      <pubDate>Mon, 21 Nov 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://oscaarramirezfernandez.github.io/Oscar_Portafolio/post/project-1/</guid>
+      <description>Este es un proyecto que se encarga de distirubuir y calcular los gastos de un de las diferentes actividades que hagas con tus amigos,familia,etc.
+Para la parte del FRONTEND he utilizado HTML, CSS y JavaScript, así como PHP, MySQL y Vagrant para la parte de BACKEND.
+El proyecto duró alredeor de 3 meses.</description>
+    </item>
+    
+    <item>
+      <title>GymWRat</title>
+      <link>https://oscaarramirezfernandez.github.io/Oscar_Portafolio/post/project-2/</link>
+      <pubDate>Mon, 10 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://oscaarramirezfernandez.github.io/Oscar_Portafolio/post/project-2/</guid>
+      <description>Este proyecto se encarga de regular tanto tu dieta, como tu rutina del gimnasio. Consta de una biblioteca de ejercicios, además de un apartado donde crear tus ruitnas. También abarca una amplia gama de productos expuestos en una tienda online.
+Hemos trabajado con HTML,CSS y JavaScript para la parte de FRONTEND, y PHP y MySQL para la parte de BACKEND.
+El proyecto duró alrededor de los once meses.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://oscaarramirezfernandez.github.io/Oscar_Portafolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oscaarramirezfernandez.github.io/Oscar_Portafolio/contact/</guid>
+      <description> Platforma URL Gmail: oscarferram@gmail.com Teléfono: 625262577 LinkedIn: https://www.linkedin.com/in/kenjee/ GitLab: https://git.copernic.cat/ramirez.fernandez.oscar </description>
+    </item>
+    
+  </channel>
+</rss>
